@@ -1,0 +1,7 @@
+{
+  "name": "Ofimática Grado 6° - Material Didáctico y Evaluación",
+  "description": "Material educativo interactivo e imprimible de ofimática para grado sexto con 10 preguntas de verdadero/falso, 5 preguntas de selección múltiple, guía de estudio y solucionario docente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
